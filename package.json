@@ -1,0 +1,17 @@
+{
+  "name": "29b-testavimas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "live-server": "^1.2.1"
+  }
+}
